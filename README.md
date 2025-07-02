@@ -1,0 +1,2 @@
+# Docs
+Capturas y documentación
